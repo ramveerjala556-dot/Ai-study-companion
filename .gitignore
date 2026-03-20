@@ -1,0 +1,12 @@
+backend.log
+backend_challenge.log
+backend_final.log
+backend_srs.log
+study_companion.db
+node_modules/
+dist/
+playwright-report/
+test-results/
+__pycache__/
+*.pyc
+.env
